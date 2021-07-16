@@ -1,4 +1,5 @@
-#Control
+#Control experiment, uses the forbidden op: tf.random.normal
+
 import os
 import math
 import tensorflow as tf
